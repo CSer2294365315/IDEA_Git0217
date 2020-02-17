@@ -35,3 +35,9 @@ class good011{
      * Cser本人 Add 20:37
      */
 }
+
+class good012{
+    /**
+     * Cser01 20:51
+     */
+}
