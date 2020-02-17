@@ -14,6 +14,8 @@ public class CanalClient {
 
     public static void main(String[] args) {
 
+        new Branch
+
         /**
          * 主要任务
          * 用Cannal采集MySQL的增量数据
