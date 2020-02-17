@@ -17,10 +17,8 @@ public class CanalClient {
 
 
         new Branch
-
-confict
+                mergeResult
         /**
-
          * 主要任务
          * 用Cannal采集MySQL的增量数据
          * 把采集到的数据，存到Kafka
