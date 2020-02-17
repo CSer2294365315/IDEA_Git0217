@@ -13,8 +13,9 @@ import java.util.List;
 public class CanalClient {
 
     public static void main(String[] args) {
-
+confict
         /**
+
          * 主要任务
          * 用Cannal采集MySQL的增量数据
          * 把采集到的数据，存到Kafka
