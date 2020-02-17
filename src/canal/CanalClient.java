@@ -14,6 +14,8 @@ public class CanalClient {
 
     public static void main(String[] args) {
 
+
+
         new Branch
 
         /**
