@@ -10,3 +10,10 @@ public class HelloWorld_1 {
         System.out.println("hello,world-1");
     }
 }
+
+
+class test02{
+    /**
+     * Cser本人 20：17
+     */
+}
