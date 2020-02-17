@@ -36,8 +36,8 @@ class good011{
      */
 }
 
-class good0012{
+class good012{
     /**
-     * Cser 20:52
+     * Cser01 20:51
      */
 }
